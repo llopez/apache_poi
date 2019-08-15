@@ -8,9 +8,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Luis Lopez"]
   spec.email         = ["luigibyte@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{jRuby wrapper around java apache poi library}
+  spec.homepage      = "https://github.com/llopez/apache_poi"
   spec.license       = "MIT"
 
   spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
